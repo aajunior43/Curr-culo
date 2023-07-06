@@ -45,9 +45,8 @@ HABILIDADES RELEVANTES:
 - Gerenciamento de Empresas
 - Liberação Miofascial
 
----
 
-## Cursos
+CURSOS:
 
 - Curso de Espanhol
   - Instituição/Plataforma: Governo
@@ -139,7 +138,7 @@ HABILIDADES RELEVANTES:
 
 ---
 
-## Certificados e Participações em Eventos
+PARTICIPAÇÕES EM EVENTOS E CERTIFICADOS:
 
 - Certificado da palestra "Ciência, Tecnologia e Interculturalidade na Educação"
   - Modalidade: EAD
